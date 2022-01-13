@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Devanagari OCR</string>
+    <string name="title_retrieved_text">Retrieved Text</string>
+</resources>
